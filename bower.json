@@ -1,0 +1,15 @@
+{
+    "name": "s3-editor",
+    "version": "0.1.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "mercury": "mercury2"
+    },
+    "devDependencies": {
+
+    }
+}
