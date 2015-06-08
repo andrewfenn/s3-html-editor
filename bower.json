@@ -7,7 +7,8 @@
         "**/*.txt"
     ],
     "dependencies": {
-        "mercury": "mercury2"
+        "mercury": "mercury2",
+        "aws-sdk": "v2.1.33"
     },
     "devDependencies": {
 
